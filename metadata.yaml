@@ -7,6 +7,9 @@ contributor:
     deathdate: 1889
     gutenberg_agent_id: '55798'
     url: http://www.gutenberg.org/2009/agents/55798
+covers:
+- cover_type: archival
+  image_path: 70693-h/images/cover.jpg
 creator:
   author:
     agent_name: Origen
@@ -22,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/53332
     wikipedia: https://en.wikipedia.org/wiki/Origen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70693#The-writings-of-Origen-vol-2-of-2
 gutenberg_issued: '2023-05-03'
 identifiers:
   gutenberg: '70693'
